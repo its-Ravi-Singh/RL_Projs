@@ -1,2 +1,2 @@
 # RL_Projs
-Practical Reinforcement Learning implementations showcasing custom environments, Q-learning and SARSA algorithms, hyperparameter optimization, and applied decision-making systems built in Python.
+Built a custom Warehouse Robot Reinforcement Learning environment in Python, implementing Q-Learning and SARSA agents to learn optimal navigation policies under both deterministic and stochastic dynamics. Designed reward structures, transition models, and random rollout evaluation for policy validation. Performed hyperparameter tuning to improve convergence and decision-making performance, demonstrating applied reinforcement learning for autonomous agent control.
